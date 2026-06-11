@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-letter-of-credit
+description: "BIAN Service Domain: Letter Of Credit (Fulfill pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - fulfill
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Loans and Deposits"
+  bian/asset-type: "Letter Of Credit"
+  bian/control-record: "Letter Of Credit Fulfillment Arrangement"
